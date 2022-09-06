@@ -1,5 +1,6 @@
 # snake-game
 snake game with python using pygame
+
 so i did this project to implement an ai to a snake game but for now its just a game
 
 WARNING!
